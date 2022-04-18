@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **react, Node.js, HTML, CSS, JavaScript, C++, Python**
+- 💬 Ask me about **react, Node.js, Express, HTML, CSS, JavaScript, C++, Python**
 
 - 📫 How to reach me **shah.wahidy@gmail.com**
 
