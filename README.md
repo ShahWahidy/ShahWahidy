@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahwahidy&label=Profile%20views&color=0e75b6&style=flat" alt="shahwahidy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/shahwahidy" target="blank"><img src="https://img.shields.io/twitter/follow/shahwahidy?logo=twitter&style=for-the-badge" alt="shahwahidy" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Data Structure & Algorithms**
 
-- 💬 Ask me about **react, Node.js, Express, HTML, CSS, JavaScript, C++, Python**
+- 👯 I’m looking to collaborate on **anything!**
+
+- 💬 Ask me about **react, Node.js, HTML, CSS, JavaScript, C++, Python**
 
 - 📫 How to reach me **shah.wahidy@gmail.com**
 
@@ -17,6 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/shahwahidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shahwahidy" height="30" width="40" /></a>
+<a href="https://twitter.com/shahwahidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahwahidy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahmad-wahidy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-wahidy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/awahidy101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="awahidy101" height="30" width="40" /></a>
 </p>
