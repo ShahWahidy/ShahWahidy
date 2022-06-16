@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Wahidy</h1>
-<h3 align="center">A a curious software engineer</h3>
+<h3 align="center">A curious software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahwahidy&label=Profile%20views&color=0e75b6&style=flat" alt="shahwahidy" /> </p>
 
