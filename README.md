@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react, Node.js, HTML, CSS, JavaScript, C++, Python**
 
-- 📫 How to reach me **ahmad.w@jobinboxs.com**
+- 📫 How to reach me **Check my LinkedIn**
 
 - ⚡ Fun fact **Follow me on twitter to find out**
 
