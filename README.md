@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/shahwahidy" target="blank"><img src="https://img.shields.io/twitter/follow/shahwahidy?logo=twitter&style=for-the-badge" alt="shahwahidy" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website**
+- 🔭 I’m currently working on **a charity app**
 
-- 🌱 I’m currently learning **Data Structure & Algorithms**
+- 🌱 I’m currently learning **Data Structur and Automation**
 
-- 👯 I’m looking to collaborate on **anything!**
-
-- 💬 Ask me about **react, Node.js, HTML, CSS, JavaScript, C++, Python**
+- 💬 Ask me about **AI**
 
 - 📫 How to reach me **Check my LinkedIn**
 
